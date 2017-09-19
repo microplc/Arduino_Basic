@@ -41,17 +41,17 @@ There are 26 signed integer (16 bit) variables, from a to z
 # Expressions
 Expression is something like {variable_or_const1}{operation}{variable_or_const2}
 Possible operations:
-* + addiction
-* - substraction
-* * multiplication
-* / division
-* % modulo
-* & and
-* | or
-* ^ not
-* = equal
-* < less
-* > more
+* '+' addiction
+* '-' substraction
+* '*' multiplication
+* '/' division
+* '%' modulo
+* '&' and
+* '|' or
+* '^' not
+* '=' equal
+* '<' less
+* '>' more
 
 # Errors
 * Ready - no errors
