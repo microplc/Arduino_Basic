@@ -1,5 +1,5 @@
 # Arduino_Basic
-Basic programming language in arduino EEPROM
+Basic programming language in arduino (+ saving to EEPROM)
 
 # Requirements
 * Arduino
